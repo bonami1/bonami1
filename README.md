@@ -8,14 +8,14 @@
 
 ### Expériences professionnelles
 - :large_orange_diamond: Service civique : animatrice d'ateliers numériques
-- 💻 alternance chez **Bluegreen : Administratif et Support Tech**
+- 💻 Alternance chez **Bluegreen : Administratif et Support Tech**
 
 ### 🗂 Projets
 - Site web de vente de chaussures & calculatrice : **HTML / CSS / JavaScript**
 - Billeterie : **Python**
 - TODO List : **Vue.js** avec le framework **Quasar**
 - Application : **JAVA** (en cours)
-- prototype d'un site intranet : **Figma**
+- Prototype d'un site intranet : **Figma**
 
 ### ✨ Passions
 - 🎨 Dessin : peinture, crayons, feutres  
